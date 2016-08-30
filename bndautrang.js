@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://www.im5.vn/image/data/right-sidebar/lien-he.png' width='500px'/><br/>Cơ sở may áo thun đồng phục tại tp HCM</a> <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://2.bp.blogspot.com/-tvQ4BY-ioUM/V8U0LEIPYzI/AAAAAAAAAME/HDHJnMvzOiwx3dRS3PYAaCOAPl7EaUL_ACLcB/s640/ao-dong-phuc%2B%25281%2529.jpg' width='500px'/><br/>Cơ sở may áo thun đồng phục tại tp HCM</a> <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
